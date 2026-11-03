@@ -1,3 +1,3 @@
 # privacyBosqaGames
 
-Privacy policy for Bosqa games (Inkbound). Published with GitHub Pages from `index.html`.
+Privacy policy for Bosqa games (Inkbrawl). Published with GitHub Pages from `index.html`.
